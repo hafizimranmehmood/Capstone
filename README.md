@@ -14,7 +14,7 @@
 ```
 5. Start Ganache
 ```bash
-> ganache-cli -l 999999999999 -m "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat" -a10
+> ganache-cli -l 999999999999 -m "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat" -a20
 ```
 6. Run tests
 ```bash
