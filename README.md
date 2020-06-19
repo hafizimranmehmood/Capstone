@@ -22,9 +22,10 @@
 ```
 
 ## Contract
-1. [Contract on Rinkeby](https://rinkeby.etherscan.io/address/0x7053413ACd88c257c0b49b223d5F571DaF1e4f99)
-2. [Paragon Peak Realty on Rinkeby](https://rinkeby.etherscan.io/token/0x7053413ACd88c257c0b49b223d5F571DaF1e4f99)
-3. [Paragon Peak Realty OpenSea Storefront](https://rinkeby.opensea.io/assets/paragon-peak-realty)
+1. [Contract (SolnSquareVerifier) on Rinkeby](https://rinkeby.etherscan.io/address/0x7053413ACd88c257c0b49b223d5F571DaF1e4f99)
+2. [Contract (Verifier) on Rinkeby](https://rinkeby.etherscan.io/address/0x8115A3Bb09059A12e3bE6C687260dce3bB03A7A0)
+3. [Paragon Peak Realty on Rinkeby](https://rinkeby.etherscan.io/token/0x7053413ACd88c257c0b49b223d5F571DaF1e4f99)
+4. [Paragon Peak Realty OpenSea Storefront](https://rinkeby.opensea.io/assets/paragon-peak-realty)
 
 ## Paragon Peak Realty Properties
 
